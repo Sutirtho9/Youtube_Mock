@@ -16,7 +16,8 @@ This project is a mockup of the YouTube interface, created using only HTML and C
 
 You can view the live demo of this project [here](#).
 
-![Mock YouTube Interface Screenshot](Screenshot 2024-08-23 223031.png)
+![Mock YouTube Interface Screenshot](Youtube_Mock-
+/Screenshot 2024-08-23 223031.png)
 
 ## Features
 
