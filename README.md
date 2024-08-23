@@ -16,8 +16,7 @@ This project is a mockup of the YouTube interface, created using only HTML and C
 
 You can view the live demo of this project [here](#).
 
-![Mock YouTube Interface Screenshot](Youtube_Mock-
-/Screenshot 2024-08-23 223031.png)
+![Mock YouTube Interface Screenshot](https://github.com/Sutirtho9/Youtube_Mock/blob/main/Screenshot%202024-08-23%20223031.png)
 
 ## Features
 
@@ -40,6 +39,3 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/mock-youtube-interface.git
 
-## Web Page
-
-View the webpage at [Youtube Mock page](link)
